@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Blockchain, Solidity and SVG
 - 💞️ I’m looking to collaborate on VR apps in Browser
 - 📫 How to reach me - sylwester@workwork.fun
+- 🧊 Building new virtual worlds at https://yolo.cx
 
 <!---
 sylwesterdigital/sylwesterdigital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
