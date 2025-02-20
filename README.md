@@ -4,6 +4,7 @@
 - 🌱 Spent some time with ETH Blockchain, Solidity, CSS Animations for SVG
 - 💞️ I’m looking to collaborate on VR apps in Browser
 - 📫 How to reach me - sylwester@workwork.fun
+- 💸 I handle AdOps to pay the bills 🤪
 
 <!---
 sylwesterdigital/sylwesterdigital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
