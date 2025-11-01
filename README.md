@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sylwesterdigital
-- 👀 I’m interested in Robotics, Web, XR, Immersive, Snowboarding, open Web APIs
+- 👀 I’m interested in Robotics, Web, XR, Immersive, Advertisement, Snowboarding and open Web APIs
 - 🧊 Building new virtual worlds at https://yolo.cx
 - 🌱 Spent some time with ETH Blockchain, Solidity, CSS Animations for SVG
 - 💞️ I’m looking to collaborate on VR apps in Browser
